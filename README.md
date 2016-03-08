@@ -1,3 +1,5 @@
 # hello-world
 intro repo
-test
+
+Hello.
+Cheddar is the best.
